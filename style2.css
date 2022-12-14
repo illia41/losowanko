@@ -1,0 +1,22 @@
+p{
+	font-size: 1.2cm;
+	text-align: center;
+	color: blue;
+	
+}
+html{
+	background-color: snow;
+}
+img{
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	width: 40%;
+	height: 100%;
+}
+#skrypt{
+	position: absolute;
+	top: 0%;
+	right: 0%;
+	background-color: grey;
+}

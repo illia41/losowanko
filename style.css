@@ -1,0 +1,40 @@
+input{
+    background-color: deepskyblue;
+}
+html{
+    background-image: url('obraz.png');
+    
+}
+h1{
+    font-style: italic;
+    font-size: 1.5cm;
+}
+#main1{
+    text-align: center;
+    height: 200px;
+    width: 100%;
+}
+#main2{
+    text-align: center;
+    height: 200px;
+    width: 100%;
+}
+
+input{
+    height: 100px;
+    width:400px;
+    position: absolute;
+    top: 250px;
+    bottom: 250px;
+    left: 400px;
+    right: 200px;
+    font-size: 75px;
+    
+}
+input:hover{
+    background-color: firebrick;
+}
+#stopka{
+    position: absolute;
+    bottom: 0%;
+}
